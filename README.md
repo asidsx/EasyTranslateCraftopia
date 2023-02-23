@@ -5,7 +5,7 @@
 </p>
 
 
-Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia" target="_blank">AdditionalLanguagesForCraftopia</a>
+Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
 1.	Use UABEAvalonia to create a dump file of I2Languages-resources.assets.
 2.	Rename the dump file to input.txt.
@@ -17,7 +17,7 @@ Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguage
 8.	The orig.txt file contains the original text extracted from the input.txt file in a prepared format.
 
 <hr>
-Ссылка проекта по переводу: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia" target="_blank">AdditionalLanguagesForCraftopia</a>
+Ссылка проекта по переводу: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
 1.	Используйте программу UABEAvalonia для создания дамп-файла I2Languages-resources.assets.
 2.	Переименуйте дамп-файл в input.txt.
@@ -29,7 +29,7 @@ Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguage
 8.	Файл orig.txt содержит оригинальный текст, извлеченный из файла input.txt в уже подготовленном виде.
 
 <hr>
-翻訳プロジェクトのリンク: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia" target="_blank">AdditionalLanguagesForCraftopia</a>
+翻訳プロジェクトのリンク: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
 1.	UABEAvaloniaを使用して、I2Languages-resources.assetsのダンプファイルを作成します。
 2.	ダンプファイルをinput.txtに名前を変更します。
