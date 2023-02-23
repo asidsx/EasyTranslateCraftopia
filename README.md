@@ -1,0 +1,28 @@
+# EasyTranslateCraftopia
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/106923482/221005608-c26afb0c-78a1-4b3b-85a7-666eb6d29990.png">
+</p>
+
+1.	Use UABEAvalonia to create a dump file of I2Languages-resources.assets.
+2.	Rename the dump file to input.txt.
+3.	Take an old text file with the previous translation (e.g., de.json) and rename it to old.txt.
+4.	Put the wind.exe program into the same folder as these files.
+5.	Run wind.exe and select the language you want to extract.
+6.	After some time, you will receive a set of data.json files that you can edit and insert into the translation folder.
+7.	Any new strings that remain after merging the files will be marked with the ^ symbol, so you can use search to find them.
+8.	The orig.txt file contains the original text extracted from the input.txt file in a prepared format.
+
+<hr>
+
+
+1.	Используйте программу UABEAvalonia для создания дамп-файла I2Languages-resources.assets.
+2.	Переименуйте дамп-файл в input.txt.
+3.	Возьмите старый текст с прошлым переводом (например, de.json) и переименуйте его в old.txt.
+4.	Положите программу wind.exe в ту же папку, где находятся эти файлы.
+5.	Запустите wind.exe и выберите язык, который вы хотите извлечь.
+6.	Через некоторое время вы получите набор файлов data.json, которые можно редактировать и вставлять в папку с переводами.
+7.	Новые строки, которые остались после слияния файлов, будут помечены знаком ^, поэтому вы можете использовать поиск для их поиска.
+8.	Файл orig.txt содержит оригинальный текст, извлеченный из файла input.txt в уже подготовленном виде.
+
+
