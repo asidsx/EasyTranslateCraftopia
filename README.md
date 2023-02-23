@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/106923482/221005608-c26afb0c-78a1-4b3b-85a7-666eb6d29990.png">
 </p>
 
-
+<hr>
 Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
 1.	Use <a href="https://github.com/nesrak1/UABEA">UABEAvalonia</a> to create a dump file of I2Languages.
