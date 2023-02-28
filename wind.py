@@ -29,8 +29,6 @@ class Application(tk.Frame):
         self.ch_button.pack(fill=tk.X, pady=10)
         
 
-
-
     def load_eng(self):
         global index
         index = 0
@@ -49,8 +47,7 @@ class Application(tk.Frame):
     def load_TW(self):
         global index
         index = 3
-        self.load_lang()
-     
+        self.load_lang()  
         
     def load_lang(self):
         with open("input.txt", "r", encoding="utf-8") as file:
@@ -147,7 +144,7 @@ class Application(tk.Frame):
             os.remove(new_name)  # удалить существующий файл
         os.rename(old_name, new_name)
         
-root.title("EasyTranslateCraftopia")
 root = tk.Tk()
+root.title("EasyTranslateCraftopia")
 app = Application(master=root)
 app.mainloop()
