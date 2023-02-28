@@ -1,7 +1,7 @@
 # EasyTranslateCraftopia
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/106923482/221005608-c26afb0c-78a1-4b3b-85a7-666eb6d29990.png">
+<img src="https://user-images.githubusercontent.com/106923482/221865954-965173a1-6585-4f3e-a9ad-77acf64db705.png">
 </p>
 
 <hr>
