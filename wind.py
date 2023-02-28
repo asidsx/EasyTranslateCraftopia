@@ -123,7 +123,6 @@ class Application(tk.Frame):
                 f.writelines(lines)
                 if lines[-1][-1] != '}':
                     f.write('}\n')
-        # Пример использования
         fix_json_file('output2.txt')
         with open('output2.txt', encoding='utf-8') as f1, open('old.txt', encoding='utf-8') as f2:
             file1_data = json.load(f1)
