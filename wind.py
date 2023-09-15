@@ -151,29 +151,6 @@ class Application(tk.Frame):
 
 
 
-        def fix_json_file(input_file, output_file):
-            try:
-                with open(input_file, 'r', encoding='utf-8') as f:
-                    content = f.read()
-
-                    try:
-                        json_data = json.loads(content)
-                    except json.JSONDecodeError:
-                        content = '{' + content + '}'
-                        json_data = json.loads(content)
-                    
-                    with open(output_file, 'w', encoding='utf-8') as out_f:
-                        json.dump(json_data, out_f, indent=4, ensure_ascii=False)
-
-                    print("Файл успешно исправлен и сохранен.")
-            except Exception as e:
-                print(f"Произошла ошибка: {e}")
-
-
-
-        # Пример вызова функции
-        fix_json_file('output2.txt', 'output2.txt')
-
         def fix_json2_file(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
                 lines = f.readlines()
