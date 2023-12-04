@@ -1,4 +1,6 @@
 # EasyTranslateCraftopia
+![GitHub all releases](https://img.shields.io/github/downloads/asidsx/EasyTranslateCraftopia/total)
+
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/106923482/221865954-965173a1-6585-4f3e-a9ad-77acf64db705.png">
