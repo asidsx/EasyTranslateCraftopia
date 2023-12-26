@@ -9,7 +9,7 @@
 <hr>
 Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
-1.	Use <a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a> to create a dump file of I2Languages.
+1.	Use <a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a> (Only fourth release) to create a dump file of I2Languages.
 2.	Rename the dump file to input.txt.
 3.	Take an old text file with the previous translation (e.g., de.json) and rename it to old.txt.
 4.	Put the wind.exe program into the same folder as these files.
@@ -21,7 +21,7 @@ Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguage
 <hr>
 Ссылка проекта по переводу: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
-1.	Используйте программу <a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a> для создания дамп-файла I2Languages.
+1.	Используйте программу <a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a>(Используйт только четвертое издание) для создания дамп-файла I2Languages.
 2.	Переименуйте дамп-файл в input.txt.
 3.	Возьмите старый текст с прошлым переводом (например, de.json) и переименуйте его в old.txt.
 4.	Положите программу wind.exe в ту же папку, где находятся эти файлы.
@@ -33,7 +33,7 @@ Translation project link: <a href="https://github.com/BudgieY/AdditionalLanguage
 <hr>
 翻訳プロジェクトのリンク: <a href="https://github.com/BudgieY/AdditionalLanguagesForCraftopia">AdditionalLanguagesForCraftopia</a>
 
-1.	<a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a>を使用して、I2Languagesのダンプファイルを作成します。
+1.	<a href="https://github.com/nesrak1/UABEA/releases/tag/v4">UABEAvalonia</a> (Only fourth release)を使用して、I2Languagesのダンプファイルを作成します。
 2.	ダンプファイルをinput.txtに名前を変更します。
 3.	以前の翻訳付きの古いテキスト（たとえばde.json）を取得し、old.txtに名前を変更します。
 4.	wind.exeプログラムをこれらのファイルがあるフォルダに置きます。
