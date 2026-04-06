@@ -27,7 +27,7 @@ jobs:
           # --noconsole - убирает окно консоли
           # --onefile - собирает все в один .exe
           # --name - имя итогового файла
-          pyinstaller --noconsole --onefile --name EasyTranslateCraftopia main.py
+          pyinstaller --noconsole --onefile --name EasyTranslateCraftopia wind.py
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
